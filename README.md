@@ -91,6 +91,8 @@
 ![Ver]
 
 ## Introduction
+REMOVED useless region check.
+（没有必要，不是很明白为什么一定要跟这个风。而且PCL作者已官方辟谣）
 
 QuickShop Hikari is a Shop plugin that allows players to create Chest Shops to easily sell and buy items, without the
 need for any commands.  
